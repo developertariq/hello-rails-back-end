@@ -13,6 +13,7 @@
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
   - [Key Features ](#key-features-)
+  - [Front-end App Link ](#front-end-app-link-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -50,6 +51,14 @@
 ## Key Features <a name="key-features"></a>
 
 - Generates random greetings message.
+- 
+## Front-end App Link <a name="front-end"></a>
+
+
+Get [Front-end app](https://github.com/developertariq/hello-react-front-end)
+
+
+<p align="right"><a href="#readme-top">back to top</a></p>
 
 <!-- GETTING STARTED -->
 
